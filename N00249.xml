@@ -109,8 +109,8 @@
    <text xml:lang="eng">
       <body>
          <div type="orders">
-            <pb facs="tcp:000317_0000_0FA4AE7134F8CE68"/>
-            <pb facs="tcp:000317_0001_0FA4AE71E979DBE0"/>
+            <pb facs="unknown:000317_0000_0FA4AE7134F8CE68"/>
+            <pb facs="unknown:000317_0001_0FA4AE71E979DBE0"/>
             <head>AN ORDER FOR REGULATING CONSTABLES PAYMENTS, And for the Rating of Unimproved Lands; and Relating to Troopers, Made at the second Session of the GENERAL COURT Held at BOSTON, Octob. 11. 1682. Edward Rawson Secr'</head>
             <div type="order">
                <p>
@@ -119,7 +119,7 @@
                <p>This Court doth Order. that what is so unpaid, be paid in accor<g ref="char:EOLhyphen"/>ding to the valuation of all sorts of Corn made the present Court.</p>
             </div>
             <div type="order">
-               <pb facs="tcp:000317_0002_0FA4AE72E8C3FD48"/>
+               <pb facs="unknown:000317_0002_0FA4AE72E8C3FD48"/>
                <p>
                   <hi>IT Appearing a Grievance among us that sundry Gentlemen, Merchants and others, having great Tracts of Land, bounded out to them in Pro<g ref="char:EOLhyphen"/>priety, pay not to Publick Charges; although they have a considerable profit to themselves by the continual Rise of the estimate of said Lands: For the Easing whereof;</hi>
                </p>
